@@ -1,0 +1,5 @@
+train: train/images
+val: ../test/valid/images
+
+nc: 1
+names: ['belt_roi']

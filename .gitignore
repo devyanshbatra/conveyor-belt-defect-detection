@@ -1,18 +1,11 @@
-# Large model/data files
-anomaly_model/crops/
-anomaly_model/crops_clean/
+# Large model checkpoints (>100MB — exceed GitHub file limit)
 anomaly_model/patchcore_model/
 anomaly_model/patchcore_clean/
-dataset/
-runs/
-outputs/
-outputs_clean/
+
+# Base YOLO pretrained weights (not project-specific)
+yolo11m-seg.pt
+yolo11n-seg.pt
+
 __pycache__/
 *.pyc
-*.pth
-*.ckpt
-*.pt
-*.engine
-*.onnx
-*.zip
 .env

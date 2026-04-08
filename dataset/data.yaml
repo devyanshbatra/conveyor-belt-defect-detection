@@ -1,0 +1,5 @@
+train: /home/zeus/Downloads/vs_code/conveyor_defect/dataset/train/images
+val:   /home/zeus/Downloads/vs_code/conveyor_defect/dataset/val/images
+
+nc: 1
+names: ['belt_roi']

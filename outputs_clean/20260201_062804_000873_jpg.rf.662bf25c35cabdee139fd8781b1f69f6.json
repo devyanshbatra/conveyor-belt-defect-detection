@@ -1,0 +1,152 @@
+{
+  "1": {
+    "bbox_coordinates": [
+      2642,
+      0,
+      3078,
+      1136
+    ],
+    "class": "edge_damage",
+    "score": 0.6981
+  },
+  "2": {
+    "bbox_coordinates": [
+      636,
+      64,
+      1119,
+      826
+    ],
+    "class": "edge_damage",
+    "score": 0.745
+  },
+  "3": {
+    "bbox_coordinates": [
+      1664,
+      79,
+      1982,
+      285
+    ],
+    "class": "scratch",
+    "score": 0.6106
+  },
+  "4": {
+    "bbox_coordinates": [
+      2493,
+      147,
+      2623,
+      244
+    ],
+    "class": "scratch",
+    "score": 0.5955
+  },
+  "5": {
+    "bbox_coordinates": [
+      1845,
+      206,
+      2055,
+      433
+    ],
+    "class": "scratch",
+    "score": 0.6072
+  },
+  "6": {
+    "bbox_coordinates": [
+      1884,
+      604,
+      2039,
+      774
+    ],
+    "class": "scratch",
+    "score": 0.6086
+  },
+  "7": {
+    "bbox_coordinates": [
+      2593,
+      1020,
+      2859,
+      1310
+    ],
+    "class": "edge_damage",
+    "score": 0.588
+  },
+  "8": {
+    "bbox_coordinates": [
+      2886,
+      1235,
+      2997,
+      1419
+    ],
+    "class": "edge_damage",
+    "score": 0.583
+  },
+  "9": {
+    "bbox_coordinates": [
+      2648,
+      1450,
+      2668,
+      1499
+    ],
+    "class": "scratch",
+    "score": 0.5686
+  },
+  "10": {
+    "bbox_coordinates": [
+      636,
+      1483,
+      1264,
+      2160
+    ],
+    "class": "edge_damage",
+    "score": 0.6553
+  },
+  "11": {
+    "bbox_coordinates": [
+      2850,
+      1492,
+      3078,
+      2022
+    ],
+    "class": "edge_damage",
+    "score": 0.6164
+  },
+  "12": {
+    "bbox_coordinates": [
+      2032,
+      1758,
+      2335,
+      2063
+    ],
+    "class": "scratch",
+    "score": 0.6668
+  },
+  "13": {
+    "bbox_coordinates": [
+      1857,
+      1766,
+      1892,
+      1810
+    ],
+    "class": "scratch",
+    "score": 0.5713
+  },
+  "14": {
+    "bbox_coordinates": [
+      1322,
+      1891,
+      1450,
+      1978
+    ],
+    "class": "scratch",
+    "score": 0.5922
+  },
+  "15": {
+    "bbox_coordinates": [
+      2572,
+      1918,
+      2636,
+      1998
+    ],
+    "class": "scratch",
+    "score": 0.5779
+  }
+}

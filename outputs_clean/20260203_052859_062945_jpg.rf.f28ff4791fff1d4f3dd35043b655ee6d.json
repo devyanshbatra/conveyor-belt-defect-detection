@@ -1,0 +1,52 @@
+{
+  "1": {
+    "bbox_coordinates": [
+      2497,
+      0,
+      3102,
+      643
+    ],
+    "class": "edge_damage",
+    "score": 0.7655
+  },
+  "2": {
+    "bbox_coordinates": [
+      612,
+      80,
+      1205,
+      2160
+    ],
+    "class": "edge_damage",
+    "score": 0.7238
+  },
+  "3": {
+    "bbox_coordinates": [
+      2570,
+      1147,
+      2603,
+      1214
+    ],
+    "class": "scratch",
+    "score": 0.588
+  },
+  "4": {
+    "bbox_coordinates": [
+      2673,
+      1584,
+      2712,
+      1619
+    ],
+    "class": "scratch",
+    "score": 0.5893
+  },
+  "5": {
+    "bbox_coordinates": [
+      2722,
+      1584,
+      2878,
+      1855
+    ],
+    "class": "edge_damage",
+    "score": 0.6066
+  }
+}

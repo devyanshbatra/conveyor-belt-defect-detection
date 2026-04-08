@@ -1,0 +1,12 @@
+{
+  "1": {
+    "bbox_coordinates": [
+      3074,
+      735,
+      3150,
+      893
+    ],
+    "class": "edge_damage",
+    "score": 0.3396
+  }
+}

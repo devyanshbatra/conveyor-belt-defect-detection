@@ -1,0 +1,22 @@
+{
+  "1": {
+    "bbox_coordinates": [
+      732,
+      0,
+      3174,
+      2160
+    ],
+    "class": "scratch",
+    "score": 0.8722
+  },
+  "2": {
+    "bbox_coordinates": [
+      1804,
+      847,
+      1894,
+      950
+    ],
+    "class": "scratch",
+    "score": 0.5054
+  }
+}

@@ -1,0 +1,18 @@
+# Large model/data files
+anomaly_model/crops/
+anomaly_model/crops_clean/
+anomaly_model/patchcore_model/
+anomaly_model/patchcore_clean/
+dataset/
+runs/
+outputs/
+outputs_clean/
+__pycache__/
+*.pyc
+*.pth
+*.ckpt
+*.pt
+*.engine
+*.onnx
+*.zip
+.env

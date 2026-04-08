@@ -1,0 +1,20 @@
+# Core
+ultralytics>=8.3.0          # YOLO26 support
+torch>=2.1.0
+torchvision>=0.16.0
+
+# Anomaly detection
+anomalib>=1.0.0
+
+# Image processing
+opencv-python>=4.8.0
+Pillow>=10.0.0
+numpy>=1.24.0
+
+# Utilities
+tqdm>=4.65.0
+PyYAML>=6.0
+
+# TensorRT (install separately via NVIDIA wheel if not using pip)
+# tensorrt>=8.6.0            # install from NVIDIA: pip install tensorrt --index-url ...
+# nvidia-tensorrt            # alternative NVIDIA package
